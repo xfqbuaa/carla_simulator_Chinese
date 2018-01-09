@@ -14,7 +14,7 @@ There are several targets show below:
   * Chinese Traffic Signs detection
   * Vehicles, pedestrian detection
   * Localization
-  * Path planning 
+  * Path planning
   * Vehicle control
   * Integrating
 3. Customize Chinese city map
@@ -30,7 +30,7 @@ There are several targets show below:
 ## Resources
 * [Carla github](https://github.com/carla-simulator/carla)
 * [Carla document](http://carla.readthedocs.io/en/latest/)
-* [Carla 0.7 baidu pan]()
+* [Carla 0.7 baidu pan 链接: https://pan.baidu.com/s/1eSuBh5K 密码: dgqz](https://pan.baidu.com/s/1eSuBh5K)
 * [Carla introduction zhihu](https://zhuanlan.zhihu.com/p/30979943)
 * [Udacity self driving car simulator](https://github.com/udacity/self-driving-car)
 * [Airsim](https://github.com/Microsoft/AirSim)
