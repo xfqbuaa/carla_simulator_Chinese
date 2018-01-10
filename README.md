@@ -9,9 +9,13 @@ There are several targets show below:
 
 ## Tasks and plans
 1. Carla installation and learning
+  * Receive measurement data from server
+  * Send control data to control vehicle
+  * Define radar sensor
+  * Reproduce Carla team modular pipeline.
 2. Integrate perception, localization, path planning and control
   * Lane detection
-  * Chinese Traffic Signs detection
+  * Traffic Signs detection
   * Vehicles, pedestrian detection
   * Localization
   * Path planning
@@ -32,6 +36,7 @@ There are several targets show below:
 * [Carla document](http://carla.readthedocs.io/en/latest/)
 * [Carla 0.7 baidu pan 链接: https://pan.baidu.com/s/1eSuBh5K 密码: dgqz](https://pan.baidu.com/s/1eSuBh5K)
 * [Carla introduction zhihu](https://zhuanlan.zhihu.com/p/30979943)
+* [Carla paper](http://proceedings.mlr.press/v78/dosovitskiy17a/dosovitskiy17a.pdf)
 * [Udacity self driving car simulator](https://github.com/udacity/self-driving-car)
 * [Airsim](https://github.com/Microsoft/AirSim)
 
