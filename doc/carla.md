@@ -57,5 +57,33 @@ during `./Setup.sh`, there is a error showing below.
 `
  * `./Setup.sh`
 
-##　
-[Multi-camera setting](https://github.com/carla-simulator/carla/issues/42) 
+## Multi camera setting
+
+[Multi-camera setting](https://github.com/carla-simulator/carla/issues/42)
+
+## How to run run_CIL.py
+
+* imitation learning should be running in python 2 environment.
+
+Suggest using anaconda to setup python 2 environment and install all necessary library.  
+
+`pip install future` if there are `ImportError: No module named builtins`
+
+* In carla repository to get benchmark_branch
+
+`git -b benchmark_branch origin/benchmark_branch`
+
+then copy whole folder carla to imitation learning folder
+`cp -r ./PythonClient/carla  ../imitation_learning`
+
+Pay more attention to folder structure here.
+
+* modify client.py
+
+line 20: #from carla_protocol import EpisodeReady
+
+line 100: pb_message = carla_protocol.EpisodeReady()
+
+[reference](https://github.com/carla-simulator/carla/commit/30c54019ec84d533d0d3d5082b277c2c93040cbb)
+
+* start server and run run_CIL.py in python 2 enviroment
