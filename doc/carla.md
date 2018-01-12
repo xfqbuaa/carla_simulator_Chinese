@@ -43,3 +43,19 @@ during `./Setup.sh`, there is a error showing below.
 ...skipped 12 targets...
 ...updated 95 targets...
 ```
+
+* please make sure python-dev package is installed
+
+`apt-get install python-dev`
+* find pyconfig.h location
+
+`locate pyconfig.h`
+
+* In anaconda python 3.6 environment, export path
+
+`export CPLUS_INCLUDE_PATH=/home/xufq/miniconda3/pkgs/python-3.6.0-0/include/python3.6m/
+`
+ * `./Setup.sh`
+
+##　
+[Multi-camera setting](https://github.com/carla-simulator/carla/issues/42) 
