@@ -87,3 +87,28 @@ line 100: pb_message = carla_protocol.EpisodeReady()
 [reference](https://github.com/carla-simulator/carla/commit/30c54019ec84d533d0d3d5082b277c2c93040cbb)
 
 * start server and run run_CIL.py in python 2 enviroment
+
+##  Basic Carla design
+[basic Carla design](https://github.com/carla-simulator/carla/issues/140)
+
+"ASceneCaptureToDiskCamera"
+
+"AVehicleSpawnerBase"
+
+## Get information about npc vehicle's speed
+[github send all vehicle information](https://github.com/carla-simulator/carla/issues/155)
+
+## Separate segment for traffic lights and traffic Signs
+[different segment for traffic lights and signs ](https://github.com/carla-simulator/carla/issues/175)
+
+## Document guide
+[document guide](https://github.com/carla-simulator/carla/issues/142)
+
+## Navigation
+[Navigation](https://github.com/carla-simulator/carla/issues/94)
+
+We implemented our own controller, the code can be found at "WheeledVehicleAIController.cpp". We use information about the road lanes that is generated when building the map, as well as trigger volumes for traffic lights and signs.
+
+The intersections are handled by IntersectionEntrance, otherwise the car just go straight until it finds a road patch with defined direction.
+
+New RoutePlanner class for assigning fixed routes to autopilot (IntersectionEntrance has been removed)
