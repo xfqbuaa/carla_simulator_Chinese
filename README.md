@@ -1,4 +1,10 @@
 # CARLA Self Driving Car Simulator in Chinese Traffic Scenes
+## Updates
+1. [Carla Challenge Get Started](https://carlachallenge.org/get-started/)
+2. sendex
+ * [Programming Autonomous self-driving cars with Carla and Python](https://www.youtube.com/watch?v=J1F32aVSYaU)
+ * [Controlling the Car and getting Camera Sensor Data - Self-driving cars with Carla and Python p.2](https://www.youtube.com/watch?v=2hM44nr7Wms)
+ * [Reinforcement Learning Environment for Car Agent - Self-driving cars with Carla and Python p.3](https://www.youtube.com/watch?v=PRsp5p1l7DI)
 ## Introduction
 To build a self driving car simulator for Chinese traffic, which based on intel open source simulator [Carla](https://github.com/carla-simulator/carla).
 
