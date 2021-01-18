@@ -5,6 +5,8 @@
  * [Programming Autonomous self-driving cars with Carla and Python](https://www.youtube.com/watch?v=J1F32aVSYaU)
  * [Controlling the Car and getting Camera Sensor Data - Self-driving cars with Carla and Python p.2](https://www.youtube.com/watch?v=2hM44nr7Wms)
  * [Reinforcement Learning Environment for Car Agent - Self-driving cars with Carla and Python p.3](https://www.youtube.com/watch?v=PRsp5p1l7DI)
+3. Mathworks
+ * [Creating Driving Scenarios from Recorded Vehicle Data for Validating Lane Centering Systems in Highway Traffic](https://www.mathworks.com/videos/creating-driving-scenarios-from-recorded-vehicle-data-for-validating-lane-centering-systems-in-highway-traffic-1592820033589.html)
 ## Introduction
 To build a self driving car simulator for Chinese traffic, which based on intel open source simulator [Carla](https://github.com/carla-simulator/carla).
 
