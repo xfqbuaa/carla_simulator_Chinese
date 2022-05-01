@@ -3,7 +3,7 @@
 ## Projects
 1. Robotaxi
 
-   An [Robotaxi example](./proj/robotaxi.md) to drive in CARLA town with built in behavior.  
+   An [Robotaxi example](./robotaxi.md) to drive in CARLA town with built in behavior.  
 
 2. Highway
 
