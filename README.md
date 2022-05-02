@@ -31,6 +31,8 @@
 * [Pylot](https://github.com/erdos-project/pylot)
 * [Creating Driving Scenarios from Recorded Vehicle Data for Validating Lane Centering Systems in Highway Traffic](https://www.mathworks.com/videos/creating-driving-scenarios-from-recorded-vehicle-data-for-validating-lane-centering-systems-in-highway-traffic-1592820033589.html)
 * [Auto-Birds-Eye](https://github.com/MankaranSingh/Auto-Birds-Eye)
+* [Ford FASST English ppt](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/company/events/conferences/automotive-conference-stuttgart/2020/model-based-agility-with-ford-automated-system-simulation-toolchain-fasst.pdf)
+* [Ford FASST 中文 ppt](https://www.matlabexpo.com/content/dam/mathworks/mathworks-dot-com/images/events/matlabexpo/cn/2021/model-based-agility-with-ford-automated-system-simulation-toolchain.pdf)
 
 ## Old
 [CARLA Self Driving Car Simulator in Chinese Traffic Scenes 2018](./old/README.md)
