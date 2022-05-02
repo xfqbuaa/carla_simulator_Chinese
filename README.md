@@ -5,6 +5,8 @@
 
    An [Robotaxi example](./robotaxi.md) to drive in CARLA town with built in behavior.  
 
+   An [post](https://zhuanlan.zhihu.com/p/508261286) in Zhihu is explain detail. 
+
 2. Highway
 
    An highway example with OpenPilot.  
