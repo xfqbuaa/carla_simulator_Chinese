@@ -41,8 +41,8 @@ Run carlaviz
 
 ## Performance
 
-![Robotaxi without others vehicles](./img/robotaxi_wo.gif)
+![Robotaxi without others vehicles](./img/robotaxi_wo.png)
 
-![robotaxi with other vehicles](./img/robotaxi_with.gif)
+![robotaxi with other vehicles](./img/robotaxi_with.png)
 
-![robotaxi with other vehicles in carlaviz](./img/robotaxi_with_carlaviz.gif)
+![robotaxi with other vehicles in carlaviz](./img/robotaxi_with_carlaviz.png)
