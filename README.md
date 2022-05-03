@@ -5,7 +5,11 @@
 
    An [Robotaxi example](./robotaxi.md) to drive in CARLA town with built in behavior.  
 
-   An [post](https://zhuanlan.zhihu.com/p/508261286) in Zhihu is explain detail. 
+   A serious posts in Zhihu is explain detail.
+
+   [在Carla里做一个Robotaxi （一）](https://zhuanlan.zhihu.com/p/508261286) 
+
+   [在Carla里做一个Robotaxi （二）](https://zhuanlan.zhihu.com/p/508660497) 
 
 2. Highway
 
