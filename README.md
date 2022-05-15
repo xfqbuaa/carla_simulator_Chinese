@@ -11,6 +11,8 @@
 
    [在Carla里做一个Robotaxi （二）](https://zhuanlan.zhihu.com/p/508660497) 
 
+   [在Carla里做一个Robotaxi （三）](https://zhuanlan.zhihu.com/p/514632285)
+
 2. Highway
 
    An highway example with OpenPilot.  
