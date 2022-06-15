@@ -13,6 +13,8 @@
 
    [在Carla里做一个Robotaxi （三）](https://zhuanlan.zhihu.com/p/514632285)
 
+   [在Carla里做一个Robotaxi（四）给Tesla Cybertruck装上地平线的Matrix Pilot 3](https://zhuanlan.zhihu.com/p/529362118)
+
 2. Highway
 
    An highway example with OpenPilot.  
