@@ -15,6 +15,16 @@
 
    [在Carla里做一个Robotaxi（四）给Tesla Cybertruck装上地平线的Matrix Pilot 3](https://zhuanlan.zhihu.com/p/529362118)
 
+   [在Carla里做一个Robotaxi（五）熟悉Carla里的地图](https://zhuanlan.zhihu.com/p/607698172)
+
+   [在Carla里做一个Robotaxi（五）熟悉Carla里的地图](https://zhuanlan.zhihu.com/p/607698172)
+
+   [在Carla里做一个Robotaxi（六）规划路径](https://zhuanlan.zhihu.com/p/609536021)
+
+   [在Carla里做一个Robotaxi（七）PID控制车辆follow route](https://zhuanlan.zhihu.com/p/610875681)
+
+   [在Carla里做一个Robotaxi（八）添加相机观察车辆视角](https://zhuanlan.zhihu.com/p/611485866)
+
 2. Highway
 
    An highway example with OpenPilot.  
