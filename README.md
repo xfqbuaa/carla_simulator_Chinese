@@ -24,12 +24,14 @@
    [在Carla里做一个Robotaxi（七）PID控制车辆follow route](https://zhuanlan.zhihu.com/p/610875681)
 
    [在Carla里做一个Robotaxi（八）添加相机观察车辆视角](https://zhuanlan.zhihu.com/p/611485866)
+   [在Carla里做一个Robotaxi（九）城市NOA视频](https://zhuanlan.zhihu.com/p/612167062)
+   
 
-2. Highway
+3. Highway
 
    An highway example with OpenPilot.  
 
-3. Parking 
+4. Parking 
 
 1. BEV
 ## Environment
